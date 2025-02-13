@@ -9,8 +9,8 @@ I'm currently learning and exploring different areas of technology. I'm curious 
 
 ## 🎯 My Vision
 
-- Work on something that positively impacts the world
-- Keep learning and growing. Trying to be better 
+- Work on something that positively impacts the world.
+- Keep learning and growing. Trying to be better... 
 
 ## 📫 Let's Connect
 
