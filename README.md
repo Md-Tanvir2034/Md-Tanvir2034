@@ -4,7 +4,7 @@ I'm currently learning and exploring different areas of technology. I'm curious 
 
 ## 🚀 What I'm Learning
 
-- C++ (beginner level, improving step by step)
+- C++, HTML, CSS (beginner level, improving step by step)
 - Exploring different fields of tech
 
 ## 🎯 My Vision
