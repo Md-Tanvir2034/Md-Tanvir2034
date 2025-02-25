@@ -24,3 +24,5 @@ I'm currently learning and exploring different areas of technology. I'm curious 
 ---
 
 🚀 *Still learning, still growing...*
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tanvir2034&layout=compact&theme=dark)
