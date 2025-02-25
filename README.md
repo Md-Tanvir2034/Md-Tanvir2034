@@ -1,8 +1,7 @@
 ![My Photo](https://github.com/Md-Tanvir2034/Md-Tanvir2034/blob/main/WhatsApp%20Image%202025-02-25%20at%2022.20.51_af7f9886.jpg)
+![](https://komarev.com/ghpvc/?username=your-github-Md-Tanvir2034&abbreviated=true&color=blueviolet)
 
 # Hi, I'm Tanvir! 👋
-
-![](https://komarev.com/ghpvc/?username=your-github-Md-Tanvir2034&abbreviated=true&color=blueviolet)
 
 I'm currently learning and exploring different areas of technology. I'm curious about almost everything (except a few things 😅). My goal is to contribute in a way that improves the world. 🌍✨
 
