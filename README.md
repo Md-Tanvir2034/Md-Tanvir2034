@@ -3,7 +3,7 @@
 
 # Hi, I'm Tanvir! 👋
 
-I'm currently learning and exploring different areas of technology. I'm curious about almost everything (except a few things 😅). My goal is to contribute in a way that improves the world. 🌍✨
+I'm currently learning and exploring different areas of technology. I'm just curious about almost everything (except a few things 😅). My goal is to contribute in a way that improves the world. 🌍✨
 
 ## 🚀 What I'm Learning
 
