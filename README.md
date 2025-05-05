@@ -5,6 +5,8 @@
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=your-github-Md-Tanvir2034&abbreviated=true&color=blueviolet)
+## My Coding Activity
+[![wakatime](https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg)](https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e)
 
 
 
