@@ -50,5 +50,6 @@ I'm currently learning and exploring different areas of technology. I'm just cur
 </table>
 
 ---
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Tanvir2034&theme=tokyonight">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tanvir2034&layout=compact&theme=dark)
+<!--[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tanvir2034&layout=compact&theme=dark) -->
