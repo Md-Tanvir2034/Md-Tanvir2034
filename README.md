@@ -1,5 +1,11 @@
 ![My Photo](https://github.com/Md-Tanvir2034/Md-Tanvir2034/blob/main/WhatsApp%20Image%202025-02-25%20at%2022.20.51_af7f9886.jpg)
+<!-- Animated Typing Headline -->  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ashraful+Islam+Shohan;" />
+</h1>
+
 ![](https://komarev.com/ghpvc/?username=your-github-Md-Tanvir2034&abbreviated=true&color=blueviolet)
+
 
 # Hi, I'm Tanvir! 👋
 
