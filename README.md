@@ -55,9 +55,7 @@ I'm currently learning and exploring different areas of technology. I'm just cur
 
 ## 📈 GitHub Stats
 
-![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Tanvir2034&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tanvir2034&layout=compact&theme=radical)
 
 
 
