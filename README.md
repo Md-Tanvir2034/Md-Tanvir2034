@@ -52,4 +52,11 @@ I'm currently learning and exploring different areas of technology. I'm just cur
 ---
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Tanvir2034&theme=tokyonight">
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tanvir2034&layout=compact&theme=dark)
+
+## 📈 GitHub Stats
+
+![Shanto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Tanvir2034&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tanvir2034m&layout=compact&theme=radical)
+
+
