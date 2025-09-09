@@ -11,7 +11,7 @@
 
 
 
-I'm currently learning and exploring different areas of technology. I'm just curious about almost everything (except a few things 😅).
+I'm currently learning and exploring different areas of technology. I'm just curious about almost everything (except a few things ).
 
 ## 🚀 What I'm Learning
 
